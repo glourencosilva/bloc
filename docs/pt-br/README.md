@@ -86,9 +86,9 @@ O objetivo dessa biblioteca é tornar fácil separar _apresentação_ da _lógic
 
 ### Flutter
 
-- [Contador](https://bloclibrary.dev/#/fluttercountertutorial) - an example of how to create a `CounterBloc` to implement the classic Flutter Counter app.
-- [Form Validation](https://github.com/felangel/bloc/tree/master/examples/flutter_form_validation) - an example of how to use the `bloc` and `flutter_bloc` packages to implement form validation.
-- [Bloc with Stream](https://github.com/felangel/bloc/tree/master/examples/flutter_bloc_with_stream) - an example of how to hook up a `bloc` to a `Stream` and update the UI in response to data from the `Stream`.
+- [Contador](https://bloclibrary.dev/#/fluttercountertutorial) - um exemplo de como criar um `CounterBloc` para implementar o aplicativo clássico Flutter Counter.
+- [Form Validation](https://github.com/felangel/bloc/tree/master/examples/flutter_form_validation) - um exemplo de como usar os pacotes `bloc` e` flutter_bloc` para implementar a validação de formulário.
+- [Bloc with Stream](https://github.com/felangel/bloc/tree/master/examples/flutter_bloc_with_stream) - um exemplo de como conectar um `bloc` a um `Stream` e atualizar a IU em resposta aos dados desse `Stream`.
 - [Infinite List](https://bloclibrary.dev/#/flutterinfinitelisttutorial) - an example of how to use the `bloc` and `flutter_bloc` packages to implement an infinite scrolling list.
 - [Login Flow](https://bloclibrary.dev/#/flutterlogintutorial) - an example of how to use the `bloc` and `flutter_bloc` packages to implement a Login Flow.
 - [Firebase Login](https://bloclibrary.dev/#/flutterfirebaselogintutorial) - an example of how to use the `bloc` and `flutter_bloc` packages to implement login via Firebase.
